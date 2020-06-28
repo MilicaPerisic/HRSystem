@@ -1,0 +1,6 @@
+C:\Users\Milica\source\repos\Project\Transfer\bin\Debug\Transfer.dll
+C:\Users\Milica\source\repos\Project\Transfer\bin\Debug\Transfer.pdb
+C:\Users\Milica\source\repos\Project\Transfer\obj\Debug\Transfer.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Project\Transfer\obj\Debug\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Project\Transfer\obj\Debug\Transfer.dll
+C:\Users\Milica\source\repos\Project\Transfer\obj\Debug\Transfer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Milica\source\repos\Project\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Milica\source\repos\Project\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Milica\source\repos\Project\DatabaseBroker\bin\Debug\Domain.dll
+C:\Users\Milica\source\repos\Project\DatabaseBroker\bin\Debug\Domain.pdb
+C:\Users\Milica\source\repos\Project\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Project\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Project\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Milica\source\repos\Project\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Milica\source\repos\Project\DatabaseBroker\obj\Debug\DatabaseBroker.pdb

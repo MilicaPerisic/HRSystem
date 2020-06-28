@@ -1,0 +1,10 @@
+C:\Users\Milica\source\repos\Project\Server1\bin\Debug\Server1.exe.config
+C:\Users\Milica\source\repos\Project\Server1\bin\Debug\Server1.exe
+C:\Users\Milica\source\repos\Project\Server1\bin\Debug\Server1.pdb
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.FServer.resources
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.Properties.Resources.resources
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.csproj.GenerateResource.cache
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.exe
+C:\Users\Milica\source\repos\Project\Server1\obj\Debug\Server1.pdb

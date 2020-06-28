@@ -1,0 +1,9 @@
+C:\Users\Milica\source\repos\Project\Storage\bin\Debug\Storage.dll
+C:\Users\Milica\source\repos\Project\Storage\bin\Debug\Storage.pdb
+C:\Users\Milica\source\repos\Project\Storage\bin\Debug\Domain.dll
+C:\Users\Milica\source\repos\Project\Storage\bin\Debug\Domain.pdb
+C:\Users\Milica\source\repos\Project\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Project\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Project\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Milica\source\repos\Project\Storage\obj\Debug\Storage.dll
+C:\Users\Milica\source\repos\Project\Storage\obj\Debug\Storage.pdb

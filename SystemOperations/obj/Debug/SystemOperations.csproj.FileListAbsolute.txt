@@ -1,0 +1,13 @@
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\SystemOperations.dll
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\SystemOperations.pdb
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\DatabaseBroker.dll
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\Domain.dll
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\Storage.dll
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\DatabaseBroker.pdb
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\Domain.pdb
+C:\Users\Milica\source\repos\Project\SystemOperations\bin\Debug\Storage.pdb
+C:\Users\Milica\source\repos\Project\SystemOperations\obj\Debug\SystemOperations.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Project\SystemOperations\obj\Debug\SystemOperations.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\Project\SystemOperations\obj\Debug\SystemOperations.csproj.CopyComplete
+C:\Users\Milica\source\repos\Project\SystemOperations\obj\Debug\SystemOperations.dll
+C:\Users\Milica\source\repos\Project\SystemOperations\obj\Debug\SystemOperations.pdb
